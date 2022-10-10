@@ -172,7 +172,7 @@ Do as you wish with telegra.ph module!
 <b>›› 𝙳𝙾 𝚈𝙾𝚄 𝚆𝙰𝙽𝚃 𝙰 𝙱𝙾𝚃 𝚂𝙰𝙼𝙴 𝙻𝙸𝙺𝙴 𝚃𝙷𝙸𝚂</b>
 <b>›› 𝚆𝙸𝚃𝙷 𝙰𝙻𝙻 𝚈𝙾𝚄𝚁 𝙲𝚁𝙴𝙳𝙸𝚃𝚂</b>
 <b>›› 𝚆𝙸𝚃𝙷 𝚈𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁𝚂𝙷𝙸𝙿</b>
-<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/AboutAadhi>𝙰𝙰𝙳𝙷𝙸</a></b>"""
+<b>›› 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙼𝙴 <a href=https://t.me/Speedy007_Bot>𝚂𝙿𝙴𝙴𝙳𝚈</a></b>"""
 
     JSON_TXT ="""<b>JSON:</b>
 
@@ -200,11 +200,11 @@ Delete A Lot Of Messages From Groups!
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. ᴄʏɴɪᴛᴇ supports buttons with any telegram media type.
+2. Sᴘᴇᴇᴅʏ supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/TechnicalCynite)</code>
+<code>[Button Text](buttonurl:https://t.me/SPEEDY_LinkZ)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -335,7 +335,7 @@ This module only works for my admins
 
 ➪ 𝖩𝗎𝗌𝗍 𝗌𝖾𝗇𝖽 𝗆𝖾 𝖺 𝗂𝗆𝖺𝗀𝖾 𝗍𝗈 𝖾𝖽𝗂𝗍 ✨
 
-𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/TechnicalCynite>ᴛᴇᴄʜɴɪᴄᴀʟ ᴄʏɴɪᴛᴇ</a>"""
+𝖬𝖺𝖽𝖾 𝖻𝗒 <a href=https://t.me/SPEEDY_LinkZ>Sᴘᴇᴇᴅʏ LɪɴᴋZ</a>"""
 
     STICKER_TXT = """𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝚃𝙷𝙸𝚂 𝙼𝙾𝙳𝚄𝙻𝙴 𝚃𝙾 𝙵𝙸𝙽𝙳 𝙰𝙽𝚈 𝚂𝚃𝙸𝙲𝙺𝙴𝚁𝚂 𝙸𝙳.
 • 𝐔𝐒𝐀𝐆𝐄
